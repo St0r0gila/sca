@@ -3,12 +3,12 @@ host = '0.0.0.0'
 port = 8080
 
 [s3]
-bucket = ''
+bucket = 'igorv3'
 
 [redis]
-host = ''
-port = 6379
-password = ''
+host = '0.0.0.0'
+port = 8080
+password = ',tksq74,tksq74'
 
 [ydb]
-database = ''
+database = 'ydbv3'
